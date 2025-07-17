@@ -76,4 +76,4 @@ if(prediction[0] == 0):
     print("The person is not diabetic")
 else:
     print("The person is diabetic")
-    
+      
